@@ -82,3 +82,5 @@ fig.update_layout(height=800, width=1000, title_text="Netflix Investment Trends 
 
 # Show the plot
 fig.show()
+
+
